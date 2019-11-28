@@ -5,7 +5,7 @@ This app allows you to use the respective buttons to change the text color from 
 
 ### App Walk-though
 
-<img src=https://recordit.co/S9EWjUjPrI width=200><br>
+<img src=http://g.recordit.co/S9EWjUjPrI.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
