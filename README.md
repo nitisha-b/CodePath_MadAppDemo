@@ -1,7 +1,7 @@
 ## Mad App Demo
 
 ### App Description
-This app allows you to use the respective buttons to change the text color from black to orange, change the background color from blue to red, and change the text to any custom text from the user. It also resets to the original settings, if the screen is tapped anywhere outside the buttons and labels. 
+This app allows the user to use the respective buttons to change the text color from black to orange, change the background color from blue to red, and change the text to any custom text from the user. It also resets everything to the original settings, if the screen is tapped anywhere outside the buttons and labels. 
 
 ### App Walk-though
 
